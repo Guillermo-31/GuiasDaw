@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: rgba(37, 67, 95, 0.733);
+  color: white;
+}
+
+table {
+  font-size: 2em;
+  justify-content: center;
+  align-items: center;
+  margin: 1em auto;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 1rem;
+  border: 0.5rem rgb(238, 113, 113) solid;
+}
